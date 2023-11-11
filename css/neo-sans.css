@@ -1,0 +1,59 @@
+/* Start Neo Sans Arabic */
+
+@font-face {
+	font-family: 'Neo Sans Arabic Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Regular'), url('../Fonts/NeoSans/Neo Sans Arabic Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Arabic Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Regular'), url('../Fonts/NeoSans/NeoSansArabic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Arabic Light';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Light'), url('../Fonts/NeoSans/NeoSansArabicLight.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Arabic Medium';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Medium'), url('../Fonts/NeoSans/NeoSansArabicMedium.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Arabic Bold';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Bold'), url('../Fonts/NeoSans/NeoSansArabicBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Arabic Black';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Black'), url('../Fonts/NeoSans/NeoSansArabicBlack.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Arabic Ultra';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Arabic Ultra'), url('../Fonts/NeoSans/NeoSansArabicUltra.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Neo Sans Medium';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Neo Sans Medium'), url('../Fonts/NeoSans/Neo_Sans_Medium.woff') format('woff');
+}
+
+/* End Neo Sans Arabic */
